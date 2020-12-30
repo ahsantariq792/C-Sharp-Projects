@@ -1,0 +1,10 @@
+C:\Users\Ahsan\source\repos\A2 Q2\bin\Debug\A2 Q2.exe.config
+C:\Users\Ahsan\source\repos\A2 Q2\bin\Debug\A2 Q2.exe
+C:\Users\Ahsan\source\repos\A2 Q2\bin\Debug\A2 Q2.pdb
+C:\Users\Ahsan\source\repos\A2 Q2\obj\Debug\A2 Q2.csprojAssemblyReference.cache
+C:\Users\Ahsan\source\repos\A2 Q2\obj\Debug\A2_Q2.Form1.resources
+C:\Users\Ahsan\source\repos\A2 Q2\obj\Debug\A2_Q2.Properties.Resources.resources
+C:\Users\Ahsan\source\repos\A2 Q2\obj\Debug\A2 Q2.csproj.GenerateResource.cache
+C:\Users\Ahsan\source\repos\A2 Q2\obj\Debug\A2 Q2.csproj.CoreCompileInputs.cache
+C:\Users\Ahsan\source\repos\A2 Q2\obj\Debug\A2 Q2.exe
+C:\Users\Ahsan\source\repos\A2 Q2\obj\Debug\A2 Q2.pdb
